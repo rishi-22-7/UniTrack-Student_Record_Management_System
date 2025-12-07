@@ -1,0 +1,5 @@
+21BCE100 student123 CSE Hosteler N/A 9.1 0 Alice Johnson
+21ECE205 student123 ECE DayScholar Bus 8.5 20000 Bob Smith
+21MEC301 student123 MECH DayScholar Own 7.8 50000 Charlie Brown
+21CIV404 student123 CIVIL Hosteler N/A 0 90000 David Lee
+21EEE505 student123 EEE Hosteler N/A 8.9 0 Eva Green

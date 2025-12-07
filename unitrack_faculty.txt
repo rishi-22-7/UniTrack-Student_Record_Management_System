@@ -1,0 +1,5 @@
+prof_cse 123 CSE
+prof_ece 123 ECE
+prof_mech 123 MECH
+prof_civil 123 CIVIL
+prof_eee 123 EEE
